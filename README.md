@@ -1,14 +1,16 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phyo+Sandar+Win!😊;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ComicSans&size=35&width=500&height=70&duration=3800&lines=👋+Hi+There!+I'm+Phyo!;" />
 </h1>
 <h3 align="left">A Computer Science Sophomore at NTU Singapore</h3>
 
 <div align = "left">
-- 🌱 I’m currently learning ReactJS
     
-- 🔭 I'm looking to collaborate on ML/DL projects
+😄 Computer Science Sophomore @ NTU
+ 
+🌱 I’m currently learning ReactJS
 
-- 🎯 Aspiring to work in frontend or data industry
+🔭 Looking to collaborate on ML/DL projects
+
 </div>
 
 <div align="left"> 
