@@ -27,8 +27,8 @@
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,python,r" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,flask,nodejs,mysql,sqlite,tensorflow,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,html,css,python,r,php" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,flask,nodejs,mysql,pytorch" /><br>
 </div>
 
 <hr/>
