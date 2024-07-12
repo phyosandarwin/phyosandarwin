@@ -1,11 +1,10 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=ComicSans&size=35&width=500&height=70&duration=3800&lines=👋+Hi+There!+I'm+Phyo!;" />
 </h1>
-<h3 align="left">A Computer Science Sophomore at NTU Singapore</h3>
 
 <div align = "left">
     
-😄 Computer Science Sophomore @ NTU
+😄 Computer Science Penultimate @ NTU
  
 🌱 I’m currently learning ReactJS
 
