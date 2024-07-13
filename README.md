@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ComicSans&size=35&width=500&height=70&duration=3800&lines=👋+Hi+There!+I'm+Phyo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=35&width=500&height=70&duration=3800&lines=👋+Hi+There!+I'm+Phyo!;" />
 </h1>
 
 <div align = "left">
