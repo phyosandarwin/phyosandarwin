@@ -6,9 +6,9 @@
     
 😄 Computer Science Penultimate @ NTU
  
-🌱 I’m currently learning ReactJS
+🌱 I’m currently learning agentic development
 
-🔭 Looking to collaborate on ML/DL projects
+🔭 Looking to collaborate on AI/ML/DL projects
 
 </div>
 
